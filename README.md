@@ -1,2 +1,21 @@
 # Manufacturing-defect-analysis
 Manufacturing defect analysis using SQL, excel/power query and power bi
+## Problem Statement
+Manufacturing companies face recurring defects that increase repair costs and delay production. The goal of this project is to analyze defect data to identify the main cost drivers, track severity, and recommend cost saving opportunities.
+## Dataset
+**Source** https://www.kaggle.com/datasets/fahmidachowdhury/manufacturing-defects
+
+## Tools used
+**SQL(MYSQL)** data cleaning + Analysis
+**Excel/power query** transformation
+
+## Business question
+1. which defect types drives the highest repair cost?
+2. which inspection method is the most effecient in dectecting defect?
+3. what savings can be achieved if the top defect type can be reduced by 30%
+4. how do defect trends over time.
+
+## Key Insights
+1. Structural defect type has the highest repair cost.
+2. Manual and visual testing is more effecient way to detect defect.
+3. Reducing the top defect type by 30% could save $53,077
