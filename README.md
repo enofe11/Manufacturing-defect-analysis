@@ -1,13 +1,14 @@
 # Manufacturing-defect-analysis
 Manufacturing defect analysis using SQL, excel/power query and power bi
 ## Problem Statement
-Manufacturing companies face recurring defects that increase repair costs and delay production. The goal of this project is to analyze defect data to identify the main cost drivers, track severity, and recommend cost saving opportunities.
+Manufacturing companies face recurring defects that increase repair costs and delay production. The goal of this project is to analyze defect data to identify the main cost drivers, defect type occurence, and recommend cost saving opportunities.
 ## Dataset
 **Source** https://www.kaggle.com/datasets/fahmidachowdhury/manufacturing-defects
 
 ## Tools used
 **SQL(MYSQL)** data cleaning + Analysis
 **Excel/power query** transformation
+**Power bi** for visualization
 
 ## Business question
 1. which defect types drives the highest repair cost?
