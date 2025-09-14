@@ -20,3 +20,6 @@ Manufacturing companies face recurring defects that increase repair costs and de
 1. Structural defect type has the highest repair cost.
 2. Manual and visual testing is more effecient way to detect defect.
 3. Reducing the top defect type by 30% could save $53,077
+
+## Dashboard preview
+![Dashboard screenshot](images/defect.screenshot.png)
