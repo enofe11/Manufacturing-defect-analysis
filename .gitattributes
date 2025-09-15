@@ -1,0 +1,10 @@
+# Ensure text files use LF line endings
+* text=auto
+
+# Treat image files as binary (no line ending normalization)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.bmp binary
+*.svg binary
