@@ -22,4 +22,5 @@ Manufacturing companies face recurring defects that increase repair costs and de
 3. Reducing the top defect type by 30% could save $53,077
 
 ## Dashboard preview
+<img width="1328" height="727" alt="defect_screenshot" src="https://github.com/user-attachments/assets/b4cdf2b5-e781-41bc-8cb0-4ac3700bf650" />
 
